@@ -21,15 +21,17 @@ Jessica Viviana Balcazar Vera
 
 4. Git y GitHub para el control de versiones y la colaboración.
 
-   **Herramientas utilizadas**
+ **Herramientas utilizadas**
+ 
+Draw.io, para diagramas y diseño.
 
-    Draw.io, para diagramas y diseño.
+Git y GitHub, para control de versiones y colaboración. 
 
-   Git y GitHub, para control de versiones y colaboración. 
+ **Estado actual del proyecto**
 
-   **Estado actual del proyecto**
+En desarrollo.
 
-En desarrollo.El proyecto se encuentra en fase de organización del repositorio, creación de ramas,
+El proyecto se encuentra en fase de organización del repositorio, creación de ramas,
 documentación inicial y preparación de evidencias colaborativas.
 
 
