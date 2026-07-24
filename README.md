@@ -7,7 +7,7 @@ Desarrollar un sistema de control de inventario que optimice la gestión de prod
 
 **Integrantes**
 
-Miguel Andre Vélez Bamguera
+Miguel Andre Vélez Banguera
 
 Jessica Viviana Balcazar Vera
 
