@@ -1,1 +1,1 @@
-Diseño del sistema
+caso_uso_registrar_movimiento
