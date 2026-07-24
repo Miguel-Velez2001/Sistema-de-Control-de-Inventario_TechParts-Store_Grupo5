@@ -1,0 +1,39 @@
+Descripción del caso de uso: Registrar Movimiento de Inventario
+Nombre del caso de uso: Registrar Movimiento de Inventario
+Actor principal: Empleado / Administrador
+Precondición: El producto debe existir previamente en el sistema.
+Postcondición: El stock del producto queda actualizado y el movimiento queda registrado.
+
+Descripción general
+Este caso de uso permite registrar las entradas y salidas de inventario de los productos almacenados en TechParts Store. El usuario responsable selecciona un producto existente, indica si el movimiento corresponde a una entrada o salida, ingresa la cantidad y confirma la operación. Una vez validada la información, el sistema actualiza automáticamente el stock y guarda el registro del movimiento realizado.
+
+Flujo principal
+El usuario inicia el proceso de registro de movimiento.
+
+El sistema muestra la opción de búsqueda de productos.
+
+El usuario busca el producto por código o nombre.
+
+El sistema muestra la información del producto seleccionado.
+
+El usuario elige el tipo de movimiento: entrada o salida.
+
+El usuario ingresa la cantidad correspondiente.
+
+El sistema valida que los datos sean correctos.
+
+El usuario confirma la transacción.
+
+El sistema registra el movimiento en la base de datos.
+
+El sistema actualiza el stock del producto.
+
+El sistema muestra un mensaje de confirmación.
+
+Flujo alterno
+Si el usuario cancela la operación antes de confirmar, el sistema no realiza cambios y conserva la información anterior.
+
+Si la cantidad ingresada supera el stock disponible en una salida, el sistema debe mostrar un mensaje de error y no permitir la transacción.
+
+Resultado
+El stock del producto se actualiza correctamente y el movimiento queda almacenado para futuras consultas y reportes
