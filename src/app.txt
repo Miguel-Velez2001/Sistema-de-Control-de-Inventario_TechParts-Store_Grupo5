@@ -1,1 +1,1 @@
-Código principal del sistema
+inventario.py
