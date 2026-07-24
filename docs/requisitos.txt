@@ -1,1 +1,1 @@
-Requisitos del sistema
+Requisitos funcionales
