@@ -1,5 +1,5 @@
 # Sistema-de-Control-de-Inventario_TechParts-Store_Grupo5
-TechParts Store necesita un sistema que permita registrar productos, controlar entradas y salidas, administrar proveedores y mejorar la trazabilidad del inventario. El proyecto surge porque el manejo manual y en hojas de cálculo ha provocado errores, pérdida de información y falta de control sobre el stock.
+TechParts Store es un emprendimiento dedicado a la venta de repuestos y componentes para computadoras. Debido al crecimiento del negocio, el control manual de inventario ha generado errores, pérdidas de información y dificultades para supervisar existencias, proveedores, entradas y salidas de productos. Por esta razón, se propone el desarrollo de un sistema que permita automatizar y organizar de manera eficiente la gestión del inventario.
 
 **Objetivo General** 
 
